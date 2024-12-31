@@ -1,6 +1,4 @@
 import React from "react";
-import ChatBot from "react-chatbotify";
-import MyAnotherChatbot from "./MyAnoterChatBot";
 
 const styles = {
   chatbot: {
